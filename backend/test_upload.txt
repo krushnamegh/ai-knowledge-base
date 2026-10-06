@@ -1,0 +1,1 @@
+This is a test document containing the secret code: 42-BETA. It is used for verifying the end-to-end pipeline.

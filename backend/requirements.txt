@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+aiosqlite
+boto3
+python-dotenv
+chromadb>=0.6.0
+openai
+pypdf
+python-docx
+pydantic
+pydantic-settings
+httpx
+google-generativeai
+sseclient-py

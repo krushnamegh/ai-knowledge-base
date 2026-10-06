@@ -1,0 +1,4 @@
+This is a test document for the AI Knowledge Base project.
+It contains information about cloud computing and vectors.
+Vectors are mathematical objects that have both magnitude and direction.
+In AI, vectors are used to represent text chunks for similarity search.

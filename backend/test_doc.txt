@@ -1,0 +1,2 @@
+This is a test document about vectors.
+Vectors represent text in high-dimensional space.
